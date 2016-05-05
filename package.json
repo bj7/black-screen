@@ -29,6 +29,7 @@
     "font-awesome": "4.6.1",
     "fs-extra": "0.30.0",
     "fuzzaldrin": "2.1.0",
+    "gulp": "3.9.1",
     "immutable": "3.8.1",
     "jison": "0.4.17",
     "jquery": "2.2.3",
